@@ -1,6 +1,6 @@
 """
 A* Pathfinding Algorithm - Visual Implementation with Tkinter
-Author: [Your Name]
+Author: Maloy Baroi
 Course: CSE 511 Advanced Algorithms
 Date: December 11, 2025
 
@@ -10,7 +10,6 @@ This implementation provides a visual interface for A* pathfinding on graphs.
 import tkinter as tk
 from tkinter import ttk, messagebox
 import heapq
-import math
 import time
 from typing import Dict, List, Tuple, Optional, Set
 
